@@ -1,0 +1,489 @@
+,Seller Name,Seller type,BHK,Location,City,Total Price,price per sqft,Area_sqft,Construction status
+0,Shree Laxmi Venture,BUILDER,2 BHK Apartment,Besa,Nagpur, 35.31 L,"3,455 ",1022 ,Under Construction
+1,Devprath Constructions LLP,BUILDER,2 BHK Apartment,Parsodi,Nagpur, 31.53 L,"3,500 ",901 ,Under Construction
+2,Sirsikar Developers And Builders Pvt Ltd,BUILDER,1 BHK Apartment,Buti Bori,Nagpur, 14.49 L,"2,636 ",550 ,Under Construction
+3,Sandesh Infrastrctures Pvt ltd,BUILDER,2 BHK Apartment,Jamtha,Nagpur, 22.95 L,"2,342 ",980 ,Under Construction
+4,Shree Laxmi Venture,BUILDER,2 BHK Apartment,Besa,Nagpur, 35.31 L,"3,297 ",1071 ,Under Construction
+5,Devprath Constructions LLP,BUILDER,2 BHK Apartment,Parsodi,Nagpur, 38.15 L,"3,500 ",1090 ,Under Construction
+6,Sirsikar Developers And Builders Pvt Ltd,BUILDER,2 BHK Apartment,Buti Bori,Nagpur, 22 L,"2,895 ",760 ,Under Construction
+7,Sandesh Infrastrctures Pvt ltd,BUILDER,3 BHK Villa,Jamtha,Nagpur, 49.01 L,"3,380 ",1450 ,Under Construction
+8,seller,VERIFIED OWNER,2 BHK Apartment,Jaitala,Nagpur, 40.5 L,"4,500 ",900 ,Under Construction
+9,seller,VERIFIED OWNER,2 BHK Apartment,Adyali,Nagpur, 67 L,"5,726 ",1170 ,Under Construction
+10,seller,VERIFIED OWNER,3 BHK Apartment,Kharbi,Nagpur, 55 L,"3,235 ",1700 ,Ready to move
+11,seller,VERIFIED OWNER,2 BHK Apartment,Kamptee,Nagpur, 23.14 L,"2,600 ",890 ,Under Construction
+12,seller,VERIFIED OWNER,3 BHK Apartment,Somalwada,Nagpur, 64 L,"4,410 ",1451 ,Under Construction
+13,seller,VERIFIED OWNER,2 BHK Apartment,Zingabai Takli,Nagpur, 27 L,"2,571 ",1050 ,Under Construction
+14,seller,VERIFIED OWNER,Residential Plot,Jamtha,Nagpur, 37 L,"2,466 ",1500 ,Resale
+15,seller,VERIFIED OWNER,Residential Plot,Beltarodi,Nagpur, 22.2 L,"1,850 ",1200 ,Resale
+16,seller,VERIFIED OWNER,Residential Plot,Wadi,Nagpur, 14.28 L,"1,200 ",1190 ,Resale
+17,seller,VERIFIED OWNER,2 BHK Apartment,Somalwada,Nagpur, 48 L,"6,857 ",700 ,Ready to move
+18,seller,VERIFIED OWNER,3 BHK Apartment,Besa,Nagpur, 45 L,"3,214 ",1400 ,Ready to move
+19,seller,VERIFIED OWNER,3 BHK Apartment,Somalwada,Nagpur, 64 L,"3,555 ",1800 ,Under Construction
+20,seller,VERIFIED OWNER,Residential Plot,Kalameshwar,Nagpur, 20 L,"1,757 ",1138 ,Resale
+21,seller,VERIFIED OWNER,2 BHK Apartment,Shambhu Nagar,Nagpur, 27 L,"2,571 ",1050 ,Under Construction
+22,seller,VERIFIED OWNER,Residential Plot,Jamtha,Nagpur, 29.9 L,"1,480 ",2020 ,Resale
+23,seller,VERIFIED OWNER,Residential Plot,Jamtha,Nagpur, 18 L,"1,800 ",1000 ,Resale
+24,seller,VERIFIED OWNER,3 BHK Apartment,Jaitala,Nagpur, 35.5 L,"3,497 ",1015 ,Under Construction
+25,seller,VERIFIED OWNER,2 BHK Apartment,Sanmarga Nagar,Nagpur, 31 L,"3,256 ",952 ,Under Construction
+26,seller,VERIFIED OWNER,3 BHK Independent House,Mihan,Nagpur, 45 L,"3,673 ",1225 ,Ready to move
+27,seller,VERIFIED OWNER,2 BHK Apartment,Vayusena Nagar,Nagpur, 36 L,"3,428 ",1050 ,Ready to move
+28,seller,VERIFIED OWNER,2 BHK Apartment,Manewada,Nagpur, 63 L,"5,185 ",1215 ,Under Construction
+29,seller,VERIFIED OWNER,2 BHK Apartment,Panjari,Nagpur, 36.55 L,"3,400 ",1075 ,Under Construction
+30,seller,VERIFIED OWNER,4 BHK Apartment,Pratap Nagar,Nagpur, 95 L,"9,500 ",1000 ,Ready to move
+31,seller,VERIFIED OWNER,3 BHK Apartment,Somalwada,Nagpur, 65 L,"3,513 ",1850 ,Ready to move
+32,seller,VERIFIED OWNER,Residential Plot,Jamtha,Nagpur, 23.85 L,"1,590 ",1500 ,Resale
+33,seller,VERIFIED OWNER,Residential Plot,Jamtha,Nagpur, 8 L,"1,000 ",800 ,Resale
+34,seller,VERIFIED OWNER,Residential Plot,Besa,Nagpur, 20 L,"1,754 ",1140 ,Resale
+35,seller,VERIFIED OWNER,3 BHK Independent Floor,Wardhaman Nagar,Nagpur, 1.11 Cr,"6,000 ",1850 ,Under Construction
+36,seller,VERIFIED OWNER,3 BHK Villa,Zingabai Takli,Nagpur, 85 L,"4,250 ",2000 ,Under Construction
+37,seller,VERIFIED OWNER,2 BHK Apartment,Hingna,Nagpur, 13.5 L,"2,048 ",659 ,Ready to move
+38,seller,VERIFIED OWNER,3 BHK Apartment,Somalwada,Nagpur, 50 L,"3,508 ",1425 ,Under Construction
+39,seller,VERIFIED OWNER,2 BHK Apartment,Vayusena Nagar,Nagpur, 40 L,"2,919 ",1370 ,Ready to move
+40,seller,VERIFIED OWNER,3 BHK Independent Floor,Somalwada,Nagpur, 70 L,"5,185 ",1350 ,Ready to move
+41,seller,VERIFIED OWNER,2 BHK Apartment,Gajanan Nagar,Nagpur, 70 L,"5,426 ",1290 ,Under Construction
+42,seller,VERIFIED OWNER,3 BHK Apartment,Manewada,Nagpur, 40 L,"3,636 ",1100 ,Under Construction
+43,seller,VERIFIED OWNER,2 BHK Apartment,Bajeria,Nagpur, 42 L,"5,250 ",800 ,Ready to move
+44,seller,VERIFIED OWNER,2 BHK Apartment,Somalwada,Nagpur, 56 L,"5,333 ",1050 ,Ready to move
+45,seller,VERIFIED OWNER,2 BHK Apartment,Panjari,Nagpur, 34.48 L,"3,300 ",1045 ,Under Construction
+46,seller,VERIFIED OWNER,2 BHK Apartment,Dhantoli,Nagpur, 45 L,"4,518 ",996 ,Ready to move
+47,seller,VERIFIED OWNER,2 BHK Apartment,Ambazari,Nagpur, 55 L,"7,857 ",700 ,Ready to move
+48,seller,VERIFIED OWNER,4 BHK Apartment,Pratap Nagar,Nagpur, 95 L,"5,542 ",1714 ,Ready to move
+49,seller,VERIFIED OWNER,2 BHK Apartment,Surabardi,Nagpur, 19 L,"2,451 ",775 ,Under Construction
+50,seller,VERIFIED OWNER,3 BHK Independent House,Shantinagar Colony,Nagpur, 51 L,"4,250 ",1200 ,Ready to move
+51,seller,VERIFIED OWNER,2 BHK Apartment,New Khapri,Nagpur, 36 L,"3,444 ",1045 ,Under Construction
+52,seller,VERIFIED OWNER,Residential Plot,Wanadongri,Nagpur, 18.15 L,"1,650 ",1100 ,Resale
+53,seller,VERIFIED OWNER,Residential Plot,Mihan,Nagpur, 26.25 L,"1,750 ",1500 ,Resale
+54,seller,VERIFIED OWNER,Residential Plot,Jamtha,Nagpur, 19.77 L,"1,750 ",1130 ,Resale
+55,seller,VERIFIED OWNER,Residential Plot,Wanadongri,Nagpur, 18.2 L,"1,300 ",1400 ,Resale
+56,seller,VERIFIED OWNER,Residential Plot,Jamtha,Nagpur, 2.1 L,175 ,1200 ,Resale
+57,seller,VERIFIED OWNER,Residential Plot,Jamtha,Nagpur, 17.25 L,"1,150 ",1500 ,Resale
+58,seller,VERIFIED OWNER,Residential Plot,Jamtha,Nagpur, 18.5 L,"1,850 ",1000 ,Resale
+59,seller,VERIFIED OWNER,Residential Plot,Mihan,Nagpur, 15 L,"1,250 ",1200 ,Resale
+60,seller,VERIFIED OWNER,Residential Plot,Mihan,Nagpur, 26.25 L,"1,750 ",1500 ,Resale
+61,seller,VERIFIED OWNER,Residential Plot,Jamtha,Nagpur, 23.62 L,"1,750 ",1350 ,Resale
+62,seller,VERIFIED OWNER,Residential Plot,Hingna,Nagpur, 10 L,847 ,1180 ,Resale
+63,seller,VERIFIED OWNER,Residential Plot,Besa,Nagpur, 23 L,"2,224 ",1034 ,Resale
+64,seller,VERIFIED OWNER,Residential Plot,Somalwada,Nagpur, 1 Cr,"5,555 ",1800 ,Resale
+65,seller,VERIFIED OWNER,Residential Plot,Jamtha,Nagpur, 17.17 L,"1,576 ",1089 ,Resale
+66,Shivaji Properties,AGENT,2 BHK Apartment,Chatrapati Nagar,Nagpur, 95 L,"6,551 ",1450 ,Ready to move
+67,Nagpur Estate,AGENT,2 BHK Apartment,Uday Nagar,Nagpur, 37.5 L,"3,409 ",1100 ,Ready to move
+68,Sm consultancy,AGENT,3 BHK Apartment,Nandanvan,Nagpur, 60 L,"4,210 ",1425 ,Ready to move
+69,om shivam bildcon pvt lmt,AGENT,2 BHK Apartment,New Khapri,Nagpur, 36 L,"3,428 ",1050 ,Under Construction
+70,seller,VERIFIED OWNER,2 BHK Apartment,Manewada,Nagpur, 36 L,"3,428 ",1050 ,Ready to move
+71,Shekhar Rahangdale,AGENT,2 BHK Independent House,Kotewada,Nagpur, 52 L,"3,641 ",1428 ,Ready to move
+72,Unique Realities Builder and Developers,AGENT,Residential Plot,Jamtha,Nagpur, 48.7 L,"1,650 ",2952 ,New
+73,Ashish Pathe,AGENT,2 BHK Apartment,Zingabai Takli,Nagpur, 29 L,"2,761 ",1050 ,Under Construction
+74,Prime Properties Consultancy,AGENT,4 BHK Apartment,Shivaji Nagar,Nagpur, 2.5 Cr,"10,869 ",2300 ,Ready to move
+75,Shrikant Empire Buildcon,AGENT,3 BHK Apartment,Jai Prakash Nagar,Nagpur, 1.08 Cr,"7,200 ",1500 ,Ready to move
+76,anil moit,AGENT,2 BHK Apartment,Raghuji Nagar,Nagpur, 40 L,"4,210 ",950 ,Ready to move
+77,Mahalaxmi Developer's,AGENT,Residential Plot,Jamtha,Nagpur, 24.02 L,"1,575 ",1525 ,New
+78,Mohan Mele,AGENT,4 BHK Apartment,Manewada,Nagpur, 75 L,"4,166 ",1800 ,Ready to move
+79,Vijay Lutade,AGENT,2 BHK Apartment,Civil Lines,Nagpur, 55 L,"5,000 ",1100 ,Ready to move
+80,NexXen Solution pvt Ltd,AGENT,1 BHK Independent House,Ganeshpeth Colony,Nagpur, 40.59 L,"6,004 ",676 ,Ready to move
+81,seller,VERIFIED OWNER,4 BHK Independent House,Katol,Nagpur, 95 L,"7,916 ",1200 ,Ready to move
+82,seller,VERIFIED OWNER,3 BHK Independent House,Gorewada,Nagpur, 40 L,"3,100 ",1290 ,Ready to move
+83,seller,VERIFIED OWNER,3 BHK Apartment,Mihan,Nagpur, 1.1 Cr,"6,111 ",1800 ,Ready to move
+84,EXP Global India Pvt Ltd,AGENT,2 BHK Apartment,Mihan,Nagpur, 50 L,"4,006 ",1248 ,Ready to move
+85,Abhijit,AGENT,3 BHK Apartment,Sankar Nagar,Nagpur, 1.2 Cr,"6,857 ",1750 ,Ready to move
+86,Individual Agent,AGENT,2 BHK Apartment,Besa,Nagpur, 40 L,"4,000 ",1000 ,Ready to move
+87,NexXen Solution pvt ltd,AGENT,2 BHK Apartment,Bhilgaon,Nagpur, 20 L,"2,500 ",800 ,Ready to move
+88,Chandni,AGENT,1 BHK Apartment,Mahal,Nagpur, 42.35 L,"8,731 ",485 ,Ready to move
+89,SMS PROPERTY,AGENT,3 BHK Independent House,Manewada,Nagpur, 90 L,"6,000 ",1500 ,Ready to move
+90,Tvisha real estates,AGENT,2 BHK Apartment,Dighori,Nagpur, 30 L,"3,529 ",850 ,Ready to move
+91,Bhoomi Raj Reality,AGENT,2 BHK Apartment,Besa,Nagpur, 60 L,"5,217 ",1150 ,Ready to move
+92,seller,VERIFIED OWNER,3 BHK Apartment,Shivaji Nagar,Nagpur, 2.02 Cr,"10,000 ",2028 ,Ready to move
+93,Sonal home service,AGENT,2 BHK Independent House,Gorewada,Nagpur, 75 L,"5,769 ",1300 ,Ready to move
+94,A to Z Property,AGENT,3 BHK Apartment,Borkhedi,Nagpur, 1.9 Cr,"10,555 ",1800 ,Ready to move
+95,Mahalakshmi Developers,AGENT,Residential Plot,Jamtha,Nagpur, 19.8 L,"1,800 ",1100 ,New
+96,Aman,AGENT,3 BHK Apartment,Borkhedi,Nagpur, 1.55 Cr,"11,923 ",1300 ,Ready to move
+97,Individual Agent,AGENT,3 BHK Independent House,Chinchbhuwan,Nagpur, 60 L,"4,285 ",1400 ,Ready to move
+98,Nagpur Estate,AGENT,2 BHK Apartment,Uday Nagar,Nagpur, 37.5 L,"3,409 ",1100 ,Ready to move
+99,Shekhar Rahangdale,AGENT,3 BHK Apartment,Somalwada,Nagpur, 98 L,"7,127 ",1375 ,Ready to move
+100,Tharwani Realty,BUILDER,1 BHK Apartment,Ambernath West,Mumbai, 29.99 L,"6,533 ",459 ,Under Construction
+101,Lak And Hanware Realty,BUILDER,3 BHK Apartment,Andheri West,Mumbai, 2.5 Cr,"36,496 ",685 ,Ready to move
+102,Romell Group,BUILDER,2 BHK Apartment,Borivali West,Mumbai, 1.73 Cr,"28,360 ",610 ,Under Construction
+103,MS Realty,BUILDER,2 BHK Apartment,Santacruz West,Mumbai, 4.33 Cr,"56,234 ",770 ,Under Construction
+104,Amar Realty,BUILDER,2 BHK Apartment,Santacruz East,Mumbai, 1.8 Cr,"31,141 ",579 ,Under Construction
+105,Sunteck Realty Limited,BUILDER,2 BHK Apartment,Naigaon East,Mumbai, 63 L,"14,031 ",450 ,Under Construction
+106,Radheya Construction Company,BUILDER,2 BHK Apartment,Naigaon East,Mumbai, 52.51 L,"8,205 ",640 ,Under Construction
+107,Shubh Buildcon,BUILDER,1 BHK Apartment,Badlapur East,Mumbai, 29.84 L,"7,535 ",396 ,Ready to move
+108,Aplite Group,BUILDER,2 BHK Apartment,Fort,Mumbai, 2.72 Cr,"40,536 ",671 ,Under Construction
+109,A Plus Life Space,BUILDER,1 RK Studio Apartment,Badlapur West,Mumbai, 16.56 L,"3,298 ",502 ,Under Construction
+110,Dev Drashti Group,BUILDER,2 BHK Apartment,Bhiwandi,Mumbai, 56.16 L,"5,200 ",1080 ,Under Construction
+111,Marathe Enterprises,BUILDER,1 BHK Apartment,Ambernath East,Mumbai, 33.99 L,"7,008 ",485 ,Under Construction
+112,Angel Developer,BUILDER,1 BHK Apartment,Vasai,Mumbai, 58.5 L,"10,503 ",557 ,Under Construction
+113,Godrej Properties Ltd,BUILDER,1 BHK Apartment,Powai,Mumbai, 1.39 Cr,"30,888 ",450 ,Under Construction
+114,Proviso Group,BUILDER,2 BHK Apartment,Kalamboli,Mumbai, 83 L,"13,070 ",635 ,Under Construction
+115,Asshna Developers,BUILDER,3 BHK Apartment,Andheri West,Mumbai, 4.2 Cr,"32,967 ",1274 ,Under Construction
+116,Mayfair Housing Pvt Ltd,BUILDER,2 BHK Apartment,Vikhroli,Mumbai, 1.49 Cr,"25,601 ",582 ,Under Construction
+117,Shakti Realty,BUILDER,1 BHK Apartment,Bhiwandi,Mumbai, 37.52 L,"7,768 ",483 ,Under Construction
+118,Pyramid Infratech Co,BUILDER,2 BHK Apartment,Airoli,Mumbai, 1.26 Cr,"19,749 ",638 ,Under Construction
+119,Tharwani Constructions Pvt Ltd,BUILDER,2 BHK Apartment,Ambernath West,Mumbai, 49.58 L,"4,736 ",1047 ,Under Construction
+120,Shreeji Sharan Group,BUILDER,2 BHK Apartment,Kandivali West,Mumbai, 1.98 Cr,"24,475 ",811 ,Under Construction
+121,BG Shirke Group of Companies,BUILDER,2 BHK Apartment,Borivali East,Mumbai, 1.31 Cr,"23,700 ",555 ,Under Construction
+122,Jindals Builders Developers,BUILDER,1 BHK Apartment,Panvel,Mumbai, 47.5 L,"18,200 ",261 ,Under Construction
+123,WALEKAR SON'S DEVELOPERS,BUILDER,2 BHK Apartment,Ambernath West,Mumbai, 34.5 L,"5,808 ",594 ,Ready to move
+124,Sri Dutt Constructions,BUILDER,1 BHK Apartment,Virar,Mumbai, 34.14 L,"7,674 ",445 ,Under Construction
+125,Anant Builders,BUILDER,1 BHK Apartment,Panvel,Mumbai, 32 L,"7,824 ",409 ,Under Construction
+126,Ravechi Lifespaces LLP,BUILDER,4 BHK Apartment,Kharghar,Mumbai, 2.7 Cr,"14,408 ",1874 ,Under Construction
+127,Shree Gajanand Developers Mumbai,BUILDER,1 BHK Apartment,Ulwe,Mumbai, 54.99 L,"12,222 ",450 ,Under Construction
+128,Yash Development,BUILDER,3 BHK Apartment,Borivali West,Mumbai, 2.93 Cr,"26,500 ",1108 ,Under Construction
+129,Sudarshan Group,BUILDER,1 BHK Apartment,Thane West,Mumbai, 65 L,"14,349 ",453 ,Ready to move
+130,Neelkanth Infracon,BUILDER,3 BHK Apartment,Panvel,Mumbai, 1.37 Cr,"15,978 ",859 ,Under Construction
+131,Shree Krupa Builders,BUILDER,2 BHK Apartment,Thane West,Mumbai, 1.31 Cr,"18,194 ",720 ,Under Construction
+132,Sadguru Developers,BUILDER,1 BHK Apartment,Titwala,Mumbai, 29 L,"6,759 ",429 ,Under Construction
+133,Today Royal Group,BUILDER,3 BHK Apartment,Rasayani,Mumbai, 52 L,"6,451 ",806 ,Under Construction
+134,Tajoddin Group,BUILDER,1 BHK Apartment,Kamothe,Mumbai, 58 L,"14,356 ",404 ,Under Construction
+135,Avant Group,BUILDER,2 BHK Apartment,Jogeshwari East,Mumbai, 1.44 Cr,"24,000 ",604 ,Under Construction
+136,Kalpataru Group,BUILDER,3 BHK Apartment,Mulund West,Mumbai, 2.85 Cr,"25,538 ",1116 ,Under Construction
+137,VBHC Value Homes,BUILDER,1 BHK Independent House,Palghar,Mumbai, 30.99 L,"4,420 ",701 ,Under Construction
+138,Unimont Group,BUILDER,2 BHK Apartment,Khopoli,Mumbai, 43 L,"4,410 ",975 ,Under Construction
+139,Lalani Group,BUILDER,1 BHK Apartment,Malad East,Mumbai, 88.23 L,"22,800 ",387 ,Under Construction
+140,Siddhivinayak Homes,BUILDER,2 BHK Apartment,Taloja,Mumbai, 45.45 L,"4,591 ",990 ,Under Construction
+141,Rai Residency Pvt Ltd,BUILDER,2 BHK Apartment,Kalyan East,Mumbai, 54.9 L,"6,100 ",900 ,Under Construction
+142,Puraniks Builders Pvt Ltd,BUILDER,2 BHK Apartment,Thane West,Mumbai, 69.99 L,"14,054 ",498 ,Under Construction
+143,user,BUILDER,1 BHK Apartment,Vangani,Mumbai, 17.01 L,"4,306 ",395 ,Under Construction
+144,Reputed Builder,BUILDER,1 BHK Apartment,Rasayani,Mumbai, 27.56 L,"8,805 ",313 ,Under Construction
+145,Sai Shrushti Enterprises,BUILDER,1 BHK Apartment,Thane West,Mumbai, 30.15 L,"7,372 ",409 ,Under Construction
+146,Piramal Realty,BUILDER,2 BHK Apartment,Mulund West,Mumbai, 1.32 Cr,"23,571 ",560 ,Under Construction
+147,H Rishabraj Developers,BUILDER,1 BHK Apartment,Ghatkopar East,Mumbai, 1.34 Cr,"30,000 ",448 ,Under Construction
+148,AURUS HOMES,BUILDER,1 BHK Apartment,Taloja,Mumbai, 27.96 L,"7,243 ",386 ,Ready to move
+149,Precious Group,BUILDER,2 BHK Apartment,Ulhasnagar,Mumbai, 46.21 L,"8,575 ",539 ,Under Construction
+150,Kasturi Developers,BUILDER,3 BHK Apartment,Ulwe,Mumbai, 1.45 Cr,"8,923 ",1625 ,Ready to move
+151,Tharwani Realty,BUILDER,2 BHK Apartment,Ambernath West,Mumbai, 38.99 L,"6,073 ",642 ,Under Construction
+152,Lak And Hanware Realty,BUILDER,3 BHK Apartment,Andheri West,Mumbai, 2.5 Cr,"36,496 ",685 ,Ready to move
+153,Romell Group,BUILDER,2 BHK Apartment,Borivali West,Mumbai, 1.73 Cr,"28,360 ",610 ,Under Construction
+154,MS Realty,BUILDER,3 BHK Apartment,Santacruz West,Mumbai, 6.53 Cr,"57,031 ",1145 ,Under Construction
+155,Sunteck Realty Limited,BUILDER,2 BHK Apartment,Naigaon East,Mumbai, 63 L,"14,031 ",450 ,Under Construction
+156,Radheya Construction Company,BUILDER,2 BHK Apartment,Naigaon East,Mumbai, 52.51 L,"8,205 ",640 ,Under Construction
+157,Shubh Buildcon,BUILDER,1 BHK Apartment,Badlapur East,Mumbai, 29.84 L,"7,535 ",396 ,Ready to move
+158,Aplite Group,BUILDER,2 BHK Apartment,Fort,Mumbai, 2.95 Cr,"39,918 ",739 ,Under Construction
+159,A Plus Life Space,BUILDER,1 BHK Apartment,Badlapur West,Mumbai, 20.95 L,"3,299 ",635 ,Under Construction
+160,Dev Drashti Group,BUILDER,2 BHK Apartment,Bhiwandi,Mumbai, 56.16 L,"5,200 ",1080 ,Under Construction
+161,Marathe Enterprises,BUILDER,1 BHK Apartment,Ambernath East,Mumbai, 33.99 L,"7,008 ",485 ,Under Construction
+162,Angel Developer,BUILDER,1 BHK Apartment,Vasai,Mumbai, 51 L,"10,692 ",477 ,Under Construction
+163,Godrej Properties Ltd,BUILDER,1 BHK Apartment,Powai,Mumbai, 1.39 Cr,"30,888 ",450 ,Under Construction
+164,Proviso Group,BUILDER,2 BHK Apartment,Kalamboli,Mumbai, 83 L,"13,070 ",635 ,Under Construction
+165,Asshna Developers,BUILDER,3 BHK Apartment,Andheri West,Mumbai, 4.2 Cr,"32,967 ",1274 ,Under Construction
+166,Mayfair Housing Pvt Ltd,BUILDER,2 BHK Apartment,Vikhroli,Mumbai, 1.49 Cr,"25,601 ",582 ,Under Construction
+167,Shakti Realty,BUILDER,2 BHK Apartment,Bhiwandi,Mumbai, 57.07 L,"7,926 ",720 ,Under Construction
+168,Pyramid Infratech Co,BUILDER,1 BHK Apartment,Airoli,Mumbai, 90 L,"19,354 ",465 ,Under Construction
+169,Tharwani Constructions Pvt Ltd,BUILDER,2 BHK Apartment,Ambernath West,Mumbai, 49.58 L,"4,736 ",1047 ,Under Construction
+170,Shreeji Sharan Group,BUILDER,2 BHK Apartment,Kandivali West,Mumbai, 1.98 Cr,"24,475 ",811 ,Under Construction
+171,BG Shirke Group of Companies,BUILDER,2 BHK Apartment,Borivali East,Mumbai, 1.31 Cr,"23,700 ",555 ,Under Construction
+172,Jindals Builders Developers,BUILDER,1 BHK Apartment,Panvel,Mumbai, 47.49 L,"18,267 ",261 ,Under Construction
+173,WALEKAR SON'S DEVELOPERS,BUILDER,2 BHK Apartment,Ambernath West,Mumbai, 31.5 L,"5,965 ",528 ,Ready to move
+174,Sri Dutt Constructions,BUILDER,2 BHK Apartment,Virar,Mumbai, 45.03 L,"7,686 ",586 ,Under Construction
+175,Anant Builders,BUILDER,2 BHK Apartment,Panvel,Mumbai, 42 L,"7,461 ",563 ,Under Construction
+176,Ravechi Lifespaces LLP,BUILDER,2 BHK Apartment,Kharghar,Mumbai, 1.51 Cr,"15,353 ",990 ,Under Construction
+177,Yash Development,BUILDER,3 BHK Apartment,Borivali West,Mumbai, 2.93 Cr,"26,500 ",1108 ,Under Construction
+178,Sudarshan Group,BUILDER,2 BHK Apartment,Thane West,Mumbai, 95.99 L,"14,371 ",668 ,Ready to move
+179,Neelkanth Infracon,BUILDER,2 BHK Apartment,Panvel,Mumbai, 1.14 Cr,"16,102 ",709 ,Under Construction
+180,Shree Krupa Builders,BUILDER,4 BHK Apartment,Thane West,Mumbai, 2.54 Cr,"19,538 ",1300 ,Under Construction
+181,Sadguru Developers,BUILDER,1 BHK Apartment,Titwala,Mumbai, 29.5 L,"6,674 ",442 ,Under Construction
+182,Today Royal Group,BUILDER,1 BHK Apartment,Rasayani,Mumbai, 23.5 L,"6,851 ",343 ,Under Construction
+183,Tajoddin Group,BUILDER,2 BHK Apartment,Kamothe,Mumbai, 90 L,"14,331 ",628 ,Under Construction
+184,Avant Group,BUILDER,2 BHK Apartment,Jogeshwari East,Mumbai, 1.4 Cr,"24,000 ",587 ,Under Construction
+185,Kalpataru Group,BUILDER,3 BHK Apartment,Mulund West,Mumbai, 2.45 Cr,"23,201 ",1056 ,Under Construction
+186,VBHC Value Homes,BUILDER,1 BHK Independent House,Palghar,Mumbai, 30.99 L,"4,420 ",701 ,Under Construction
+187,Unimont Group,BUILDER,2 BHK Apartment,Khopoli,Mumbai, 41.75 L,"4,394 ",950 ,Under Construction
+188,Lalani Group,BUILDER,2 BHK Apartment,Malad East,Mumbai, 1.34 Cr,"22,800 ",592 ,Under Construction
+189,Siddhivinayak Homes,BUILDER,1 BHK Apartment,Taloja,Mumbai, 31.8 L,"4,576 ",695 ,Under Construction
+190,Rai Residency Pvt Ltd,BUILDER,2 BHK Apartment,Kalyan East,Mumbai, 56.36 L,"6,100 ",924 ,Under Construction
+191,user,BUILDER,1 BHK Apartment,Vangani,Mumbai, 17.4 L,"4,243 ",410 ,Under Construction
+192,Reputed Builder,BUILDER,1 BHK Apartment,Rasayani,Mumbai, 27.56 L,"8,805 ",313 ,Under Construction
+193,Sai Shrushti Enterprises,BUILDER,1 RK Studio Apartment,Thane West,Mumbai, 20.39 L,"7,555 ",270 ,Under Construction
+194,Piramal Realty,BUILDER,2 BHK Apartment,Mulund West,Mumbai, 1.47 Cr,"23,520 ",625 ,Under Construction
+195,H Rishabraj Developers,BUILDER,2 BHK Apartment,Ghatkopar East,Mumbai, 1.91 Cr,"30,000 ",639 ,Under Construction
+196,AURUS HOMES,BUILDER,2 BHK Apartment,Taloja,Mumbai, 44.44 L,"7,237 ",614 ,Ready to move
+197,Precious Group,BUILDER,1 BHK Apartment,Ulhasnagar,Mumbai, 29.02 L,"7,951 ",365 ,Under Construction
+198,Kasturi Developers,BUILDER,1 BHK Apartment,Ulwe,Mumbai, 57 L,"7,600 ",750 ,Under Construction
+199,Tharwani Realty,BUILDER,3 BHK Apartment,Ambernath West,Mumbai, 49 L,"5,791 ",846 ,Under Construction
+200,Swastik Diamond Realty,BUILDER,2 BHK Apartment,Charholi Budruk,Pune, 44.95 L,"6,552 ",686 ,Under Construction
+201,S K Infra,BUILDER,2 BHK Apartment,Chinchwad,Pune, 76.69 L,"10,652 ",720 ,Under Construction
+202,Aaiji Group,BUILDER,3 BHK Apartment,Tingre Nagar,Pune, 1.42 Cr,"11,442 ",1241 ,Under Construction
+203,Classic Promoters and Builders,BUILDER,1 BHK Apartment,Dapodi,Pune, 49 L,"9,664 ",507 ,Under Construction
+204,SKYi Developers,BUILDER,2 BHK Apartment,Bhukum,Pune, 44.99 L,"7,653 ",588 ,Under Construction
+205,Nivasa Associates,BUILDER,3 BHK Apartment,Lohegaon,Pune, 88.95 L,"8,545 ",1041 ,Under Construction
+206,Saikrushna Developers,BUILDER,2 BHK Apartment,Mamurdi,Pune, 67.5 L,"7,401 ",912 ,Under Construction
+207,Steadfast Landmark PvtLtd,BUILDER,2 BHK Apartment,Bhosari,Pune, 75.06 L,"8,967 ",837 ,Under Construction
+208,Sonigara Homes,BUILDER,2 BHK Apartment,Moshi,Pune, 43.99 L,"6,907 ",637 ,Under Construction
+209,Shiv Associates,BUILDER,2 BHK Apartment,Rahatani,Pune, 62 L,"9,888 ",627 ,Under Construction
+210,Rameshwar Group,BUILDER,2 BHK Apartment,Alandi,Pune, 43.23 L,"6,787 ",637 ,Under Construction
+211,Shriram Associates,BUILDER,2 BHK Apartment,Lohegaon,Pune, 57.54 L,"8,161 ",705 ,Under Construction
+212,Kate Moze Associates,BUILDER,2 BHK Apartment,Lohegaon,Pune, 47.86 L,"6,769 ",707 ,Ready to move
+213,Audumbar Homes LLP,BUILDER,2 BHK Apartment,Pimple Nilakh,Pune, 83.39 L,"9,765 ",855 ,Under Construction
+214,Maruti Group,BUILDER,2 BHK Apartment,Moshi,Pune, 40.99 L,"6,268 ",654 ,Under Construction
+215,Shubh Landmarks,BUILDER,3 BHK Apartment,Viman Nagar,Pune, 2.4 Cr,"14,248 ",1690 ,Under Construction
+216,Rajvansh Group,BUILDER,2 BHK Apartment,Ravet,Pune, 47.49 L,"6,914 ",687 ,Under Construction
+217,user,BUILDER,1 BHK Apartment,Moshi,Pune, 40 L,"7,299 ",548 ,Ready to move
+218,RAGA DEVELOPERS,BUILDER,3 BHK Apartment,Wakad,Pune, 95 L,"10,326 ",920 ,Under Construction
+219,Aakar Realties,BUILDER,2 BHK Apartment,Charholi Budruk,Pune, 34.51 L,"6,033 ",572 ,Under Construction
+220,Bora Realty LLP,BUILDER,2 BHK Apartment,Katraj,Pune, 61.35 L,"9,171 ",669 ,Under Construction
+221,Kalpataru Group,BUILDER,2 BHK Apartment,Manjari,Pune, 61 L,"8,532 ",715 ,Under Construction
+222,user6222,BUILDER,2 BHK Apartment,Gahunje,Pune, 40.04 L,"7,360 ",544 ,Under Construction
+223,Godrej Properties Ltd,BUILDER,2 BHK Apartment,Mahalunge,Pune, 61.9 L,"9,702 ",638 ,Under Construction
+224,Samarth Chintamani Properties,BUILDER,2 BHK Apartment,Ravet,Pune, 70.62 L,"8,529 ",829 ,Under Construction
+225,Revell Realtors,BUILDER,2 BHK Apartment,Lohegaon,Pune, 63.03 L,"7,840 ",804 ,Ready to move
+226,swashrighorpade,BUILDER,1 BHK Apartment,Talegaon Dabhade,Pune, 24.23 L,"6,134 ",395 ,Under Construction
+227,Reputed Builder,BUILDER,2 BHK Apartment,Wakad,Pune, 66.5 L,"9,262 ",718 ,Under Construction
+228,Mantra Properties And Developers,BUILDER,2 BHK Apartment,Chimbali,Pune, 27.04 L,"3,616 ",748 ,Ready to move
+229,Rahul construction Co,BUILDER,3 BHK Apartment,Baner,Pune, 1.62 Cr,"12,626 ",1283 ,Ready to move
+230,CITY ONE,BUILDER,3 BHK Apartment,Akurdi,Pune, 1.55 Cr,"11,207 ",1383 ,Under Construction
+231,Hemen gala,BUILDER,2 BHK Apartment,Talegaon Dabhade,Pune, 44.29 L,"5,866 ",755 ,Ready to move
+232,Swastik Diamond Realty,BUILDER,1 BHK Apartment,Charholi Budruk,Pune, 33.86 L,"6,882 ",492 ,Under Construction
+233,S K Infra,BUILDER,3 BHK Apartment,Chinchwad,Pune, 1.03 Cr,"10,618 ",970 ,Under Construction
+234,Aaiji Group,BUILDER,3 BHK Apartment,Tingre Nagar,Pune, 1.42 Cr,"11,442 ",1241 ,Under Construction
+235,Classic Promoters and Builders,BUILDER,1 BHK Apartment,Dapodi,Pune, 49 L,"9,664 ",507 ,Under Construction
+236,SKYi Developers,BUILDER,2 BHK Apartment,Bhukum,Pune, 44.99 L,"7,653 ",588 ,Under Construction
+237,Nivasa Associates,BUILDER,3 BHK Apartment,Lohegaon,Pune, 88.95 L,"8,545 ",1041 ,Under Construction
+238,Saikrushna Developers,BUILDER,2 BHK Apartment,Mamurdi,Pune, 67.5 L,"7,401 ",912 ,Under Construction
+239,Steadfast Landmark PvtLtd,BUILDER,2 BHK Apartment,Bhosari,Pune, 83.42 L,"8,913 ",937 ,Under Construction
+240,Sonigara Homes,BUILDER,2 BHK Apartment,Moshi,Pune, 43.99 L,"6,907 ",637 ,Under Construction
+241,Shiv Associates,BUILDER,2 BHK Apartment,Rahatani,Pune, 62.29 L,"9,888 ",630 ,Under Construction
+242,Rameshwar Group,BUILDER,2 BHK Apartment,Alandi,Pune, 42.22 L,"6,810 ",620 ,Under Construction
+243,Shriram Associates,BUILDER,3 BHK Apartment,Lohegaon,Pune, 75.03 L,"7,982 ",940 ,Under Construction
+244,Kate Moze Associates,BUILDER,1 BHK Apartment,Lohegaon,Pune, 33.77 L,"6,808 ",496 ,Ready to move
+245,Audumbar Homes LLP,BUILDER,2 BHK Apartment,Pimple Nilakh,Pune, 77.79 L,"9,809 ",793 ,Under Construction
+246,Maruti Group,BUILDER,1 BHK Apartment,Moshi,Pune, 29.83 L,"6,254 ",477 ,Under Construction
+247,Shubh Landmarks,BUILDER,3 BHK Apartment,Viman Nagar,Pune, 1.75 Cr,"14,056 ",1245 ,Under Construction
+248,Rajvansh Group,BUILDER,2 BHK Apartment,Ravet,Pune, 48.9 L,"6,887 ",710 ,Under Construction
+249,user,BUILDER,2 BHK Apartment,Moshi,Pune, 58 L,"8,077 ",718 ,Ready to move
+250,RAGA DEVELOPERS,BUILDER,2 BHK Apartment,Wakad,Pune, 75.3 L,"10,000 ",753 ,Under Construction
+251,Aakar Realties,BUILDER,2 BHK Apartment,Charholi Budruk,Pune, 36 L,"5,911 ",609 ,Under Construction
+252,Bora Realty LLP,BUILDER,1 BHK Apartment,Katraj,Pune, 47.59 L,"9,082 ",524 ,Under Construction
+253,Kalpataru Group,BUILDER,2 BHK Apartment,Manjari,Pune, 61 L,"8,532 ",715 ,Under Construction
+254,user6222,BUILDER,2 BHK Apartment,Gahunje,Pune, 55.07 L,"8,825 ",624 ,Under Construction
+255,Godrej Properties Ltd,BUILDER,2 BHK Apartment,Mahalunge,Pune, 68.9 L,"10,765 ",640 ,Under Construction
+256,Revell Realtors,BUILDER,2 BHK Apartment,Lohegaon,Pune, 63.03 L,"7,840 ",804 ,Ready to move
+257,swashrighorpade,BUILDER,2 BHK Apartment,Talegaon Dabhade,Pune, 36.3 L,"6,000 ",605 ,Under Construction
+258,Reputed Builder,BUILDER,3 BHK Apartment,Wakad,Pune, 91.99 L,"9,603 ",958 ,Under Construction
+259,Mantra Properties And Developers,BUILDER,2 BHK Apartment,Talegaon Dabhade,Pune, 35.99 L,"4,394 ",819 ,Ready to move
+260,Rahul construction Co,BUILDER,3 BHK Apartment,Baner,Pune, 1.58 Cr,"12,650 ",1249 ,Ready to move
+261,Hemen gala,BUILDER,2 BHK Apartment,Talegaon Dabhade,Pune, 44.29 L,"5,866 ",755 ,Ready to move
+262,Swastik Diamond Realty,BUILDER,3 BHK Apartment,Charholi Budruk,Pune, 62.65 L,"6,567 ",954 ,Under Construction
+263,S K Infra,BUILDER,2 BHK Apartment,Chinchwad,Pune, 83.89 L,"10,605 ",791 ,Under Construction
+264,Aaiji Group,BUILDER,3 BHK Apartment,Tingre Nagar,Pune, 1.41 Cr,"11,408 ",1243 ,Under Construction
+265,SKYi Developers,BUILDER,3 BHK Apartment,Bhukum,Pune, 65.99 L,"8,527 ",774 ,Under Construction
+266,Nivasa Associates,BUILDER,2 BHK Apartment,Lohegaon,Pune, 72.29 L,"8,545 ",846 ,Under Construction
+267,Saikrushna Developers,BUILDER,2 BHK Apartment,Mamurdi,Pune, 65 L,"7,142 ",910 ,Under Construction
+268,Steadfast Landmark PvtLtd,BUILDER,2 BHK Apartment,Bhosari,Pune, 73.44 L,"8,990 ",818 ,Under Construction
+269,Sonigara Homes,BUILDER,2 BHK Apartment,Moshi,Pune, 46.99 L,"6,772 ",694 ,Under Construction
+270,Shiv Associates,BUILDER,2 BHK Apartment,Rahatani,Pune, 63.99 L,"10,142 ",632 ,Under Construction
+271,Rameshwar Group,BUILDER,2 BHK Apartment,Alandi,Pune, 41.86 L,"6,818 ",614 ,Under Construction
+272,Shriram Associates,BUILDER,2 BHK Apartment,Lohegaon,Pune, 57.92 L,"8,157 ",710 ,Under Construction
+273,Kate Moze Associates,BUILDER,1 BHK Apartment,Lohegaon,Pune, 38.17 L,"7,056 ",541 ,Ready to move
+274,Audumbar Homes LLP,BUILDER,2 BHK Apartment,Pimple Nilakh,Pune, 76.37 L,"9,829 ",778 ,Under Construction
+275,Maruti Group,BUILDER,2 BHK Apartment,Moshi,Pune, 40.3 L,"6,277 ",642 ,Under Construction
+276,Shubh Landmarks,BUILDER,3 BHK Apartment,Viman Nagar,Pune, 2.4 Cr,"14,248 ",1690 ,Under Construction
+277,user,BUILDER,2 BHK Apartment,Moshi,Pune, 58 L,"8,077 ",718 ,Ready to move
+278,RAGA DEVELOPERS,BUILDER,3 BHK Apartment,Wakad,Pune, 88.6 L,"10,362 ",855 ,Under Construction
+279,Aakar Realties,BUILDER,2 BHK Apartment,Charholi Budruk,Pune, 35 L,"6,086 ",575 ,Under Construction
+280,Bora Realty LLP,BUILDER,1 BHK Apartment,Katraj,Pune, 45 L,"9,092 ",496 ,Under Construction
+281,Kalpataru Group,BUILDER,2 BHK Apartment,Manjari,Pune, 61 L,"8,532 ",715 ,Under Construction
+282,user6222,BUILDER,1 RK Studio Apartment,Gahunje,Pune, 27.11 L,"7,950 ",341 ,Under Construction
+283,Godrej Properties Ltd,BUILDER,3 BHK Apartment,Mahalunge,Pune, 81.9 L,"9,915 ",826 ,Under Construction
+284,Revell Realtors,BUILDER,2 BHK Apartment,Lohegaon,Pune, 64.13 L,"7,821 ",820 ,Ready to move
+285,swashrighorpade,BUILDER,2 BHK Apartment,Talegaon Dabhade,Pune, 35.73 L,"6,015 ",594 ,Under Construction
+286,Reputed Builder,BUILDER,2 BHK Apartment,Wakad,Pune, 66.5 L,"9,262 ",718 ,Under Construction
+287,Mantra Properties And Developers,BUILDER,2 BHK Apartment,Talegaon Dabhade,Pune, 29.99 L,"3,993 ",751 ,Ready to move
+288,Rahul construction Co,BUILDER,3 BHK Apartment,Baner,Pune, 1.63 Cr,"12,635 ",1290 ,Ready to move
+289,Hemen gala,BUILDER,2 BHK Apartment,Talegaon Dabhade,Pune, 44.29 L,"5,866 ",755 ,Ready to move
+290,Pds Space Ventures,AGENT,2 BHK Apartment,Pimple Nilakh,Pune, 70.59 L,"9,145 ",772 ,Under Construction
+291,seller,VERIFIED OWNER,2 BHK Apartment,Kirkatwadi,Pune, 43 L,"4,689 ",917 ,Ready to move
+292,seller,VERIFIED OWNER,7 BHK Independent House,Duttawadi,Pune, 1.75 Cr,"5,468 ",3200 ,Ready to move
+293,seller,VERIFIED OWNER,1 BHK Apartment,Undri,Pune, 37 L,"6,218 ",595 ,Ready to move
+294,seller,VERIFIED OWNER,1 BHK Apartment,Lohegaon,Pune, 37 L,"5,285 ",700 ,Ready to move
+295,seller,VERIFIED OWNER,2 BHK Apartment,Pimple Saudagar,Pune, 68 L,"7,157 ",950 ,Ready to move
+296,seller,VERIFIED OWNER,3 BHK Apartment,Wakad,Pune, 1.1 Cr,"7,757 ",1418 ,Ready to move
+297,seller,VERIFIED OWNER,2 BHK Apartment,Dhanori,Pune, 63 L,"6,200 ",1016 ,Ready to move
+298,seller,VERIFIED OWNER,2 BHK Apartment,Hinjewadi,Pune, 78 L,"7,282 ",1071 ,Under Construction
+299,seller,VERIFIED OWNER,2 BHK Apartment,Wagholi,Pune, 41.99 L,"4,665 ",900 ,Ready to move
+300,seller,VERIFIED OWNER,2 BHK Villa,Pachgaon,Kolhapur, 30 L,"3,333 ",900 ,Ready to move
+301,seller,VERIFIED OWNER,1 BHK Independent Floor,Laxtirth Vasahat,Kolhapur, 24 L,"4,705 ",510 ,Ready to move
+302,seller,VERIFIED OWNER,2 BHK Apartment,Kasaba Bawada,Kolhapur, 41.46 L,"4,749 ",873 ,Ready to move
+303,seller,VERIFIED OWNER,3 BHK Independent House,Rajarampuri,Kolhapur, 1.2 Cr,"7,500 ",1600 ,Ready to move
+304,seller,VERIFIED OWNER,3 BHK Independent House,Papachi Tikati,Kolhapur, 1.3 Cr,"6,500 ",2000 ,Ready to move
+305,Kedar Samangadkar,BUILDER,3 BHK Apartment,Tarabai Park,Kolhapur, 95 L,"6,884 ",1380 ,Under Construction
+306,seller,OWNER,2 BHK Apartment,Hari Om Nagar,Kolhapur, 67 L,"5,826 ",1150 ,Ready to move
+307,Shridhar,OWNER,2 BHK Apartment,Shahupuri,Kolhapur, 42 L,"4,154 ",1011 ,Ready to move
+308,seller,OWNER,2 BHK Independent House,Pachgaon,Kolhapur, 30 L,"3,333 ",900 ,Ready to move
+309,Sameer Rahiman Shaikh,OWNER,4 BHK Independent House,Rajopadhye Nagar,Kolhapur, 30 L,"3,000 ",1000 ,Ready to move
+310,seller,OWNER,2 BHK Independent House,Kagal,Kolhapur, 27 L,"3,103 ",870 ,Under Construction
+311,SACHIN B PATIL,OWNER,3 BHK Independent House,Pachgaon,Kolhapur, 55 L,"5,945 ",925 ,Under Construction
+312,unique proparty,AGENT,2 BHK Apartment,Shivaji Park,Kolhapur, 65 L,"5,000 ",1300 ,Ready to move
+313,Sanjay Sanglikar,OWNER,2 BHK Apartment,Nagala Park,Kolhapur, 35 L,"3,181 ",1100 ,Ready to move
+314,raghavendra murthy,OWNER,Residential Plot,Kalamba,Kolhapur, 31 L,"1,823 ",1700 ,Resale
+315,Guest,OWNER,Residential Plot,RK Nagar,Kolhapur, 68 L,"1,700 ",4000 ,New
+316,Sameer Rahiman Shaikh,OWNER,4 BHK Independent House,Rajopadhye Nagar,Kolhapur, 30 L,"3,000 ",1000 ,Ready to move
+317,Surekha Patil,OWNER,Residential Plot,Kalamba,Kolhapur, 30 L,"1,214 ",2470 ,Resale
+318,Avinash,AGENT,2 BHK Villa,Pratibha Nagar,Kolhapur, 58 L,"4,957 ",1170 ,Ready to move
+319,Clear Property Consultant,AGENT,Residential Plot,Hari Om Nagar,Kolhapur, 45 L,"2,614 ",1721 ,Resale
+320,Vaishnav Constructions,BUILDER,3 BHK Apartment,Gangapur,Nashik, 95.15 L,"5,149 ",1848 ,Under Construction
+321,Shreeji Group,BUILDER,4 BHK Apartment,Govind Nagar,Nashik, 1.34 Cr,"6,250 ",2144 ,Under Construction
+322,Jaikumar Constructions Ltd,BUILDER,3 BHK Apartment,Chandshi,Nashik, 85.1 L,"5,400 ",1576 ,Under Construction
+323,Rohan Enterprises,BUILDER,2 BHK Apartment,Indira Nagar,Nashik, 39.1 L,"4,035 ",969 ,Under Construction
+324,Arihant Builders And Developers,BUILDER,2 BHK Apartment,Chehdi,Nashik, 26.1 L,"3,000 ",870 ,Under Construction
+325,The Avenue NX,BUILDER,4 BHK Apartment,Govind Nagar,Nashik, 1.42 Cr,"5,796 ",2467 ,Under Construction
+326,Pacific Builder,BUILDER,3 BHK Apartment,Tagore Nagar,Nashik, 65.67 L,"5,890 ",1115 ,Under Construction
+327,A C Jain Builders Developers,BUILDER,2 BHK Apartment,Deolali Gaon,Nashik, 30 L,"4,178 ",718 ,Under Construction
+328,Aaradhya Properties,BUILDER,3 BHK Apartment,Gangapur,Nashik, 54.15 L,"3,516 ",1540 ,Under Construction
+329,Lalit Roongta Group,BUILDER,1 BHK Apartment,Kamatwade,Nashik, 30.91 L,"4,150 ",745 ,Under Construction
+330,Shreeji Group,BUILDER,3 BHK Apartment,Govind Nagar,Nashik, 89 L,"5,661 ",1572 ,Under Construction
+331,Jaikumar Constructions Ltd,BUILDER,4 BHK Apartment,Chandshi,Nashik, 1.35 Cr,"5,400 ",2513 ,Under Construction
+332,Rohan Enterprises,BUILDER,2 BHK Apartment,Indira Nagar,Nashik, 40.55 L,"4,034 ",1005 ,Under Construction
+333,Arihant Builders And Developers,BUILDER,2 BHK Apartment,Chehdi,Nashik, 27.99 L,"3,000 ",933 ,Under Construction
+334,The Avenue NX,BUILDER,3 BHK Apartment,Govind Nagar,Nashik, 99 L,"5,800 ",1707 ,Under Construction
+335,Pacific Builder,BUILDER,2 BHK Apartment,Tagore Nagar,Nashik, 41.99 L,"5,915 ",710 ,Under Construction
+336,A C Jain Builders Developers,BUILDER,2 BHK Apartment,Deolali Gaon,Nashik, 48.49 L,"6,077 ",798 ,Ready to move
+337,Aaradhya Properties,BUILDER,2 BHK Apartment,Gangapur,Nashik, 40.15 L,"3,521 ",1140 ,Under Construction
+338,Lalit Roongta Group,BUILDER,2 BHK Apartment,Indira Nagar,Nashik, 41.09 L,"4,129 ",995 ,Under Construction
+339,Shreeji Group,BUILDER,4 BHK Apartment,Govind Nagar,Nashik, 1.37 Cr,"6,235 ",2197 ,Under Construction
+340,Rohan Enterprises,BUILDER,3 BHK Apartment,Indira Nagar,Nashik, 55.7 L,"4,024 ",1384 ,Under Construction
+341,Arihant Builders And Developers,BUILDER,2 BHK Apartment,Chehdi,Nashik, 27.15 L,"3,000 ",905 ,Under Construction
+342,The Avenue NX,BUILDER,3 BHK Apartment,Govind Nagar,Nashik, 96.99 L,"5,791 ",1675 ,Under Construction
+343,Pacific Builder,BUILDER,3 BHK Apartment,Tagore Nagar,Nashik, 50.79 L,"5,990 ",848 ,Under Construction
+344,Aaradhya Properties,BUILDER,2 BHK Apartment,Gangapur,Nashik, 37.17 L,"3,523 ",1055 ,Under Construction
+345,Lalit Roongta Group,BUILDER,1 BHK Apartment,Prabhat Colony,Nashik, 30.91 L,"4,150 ",745 ,Under Construction
+346,seller,VERIFIED OWNER,2 BHK Apartment,Mhasrul Gaon,Nashik, 27 L,"3,253 ",830 ,Ready to move
+347,seller,VERIFIED OWNER,2 BHK Apartment,Panchavati,Nashik, 32.75 L,"3,540 ",925 ,Ready to move
+348,seller,VERIFIED OWNER,2 BHK Apartment,Sinnar Taluka,Nashik, 18 L,"2,393 ",752 ,Ready to move
+349,seller,VERIFIED OWNER,1 BHK Apartment,Nehru Nager,Nashik, 16.5 L,"3,300 ",500 ,Under Construction
+350,seller,VERIFIED OWNER,2 BHK Apartment,Pathardi Phata,Nashik, 29.99 L,"3,351 ",895 ,Ready to move
+351,seller,VERIFIED OWNER,2 BHK Apartment,Nashik Road,Nashik, 45 L,"5,232 ",860 ,Ready to move
+352,seller,VERIFIED OWNER,3 BHK Independent House,Konark Nagar,Nashik, 47 L,"3,321 ",1415 ,Under Construction
+353,seller,VERIFIED OWNER,Residential Plot,Viman Nagar,Nashik, 8 L,"1,142 ",700 ,Resale
+354,seller,VERIFIED OWNER,1 BHK Apartment,Satpur,Nashik, 17.5 L,"2,734 ",640 ,Ready to move
+355,seller,VERIFIED OWNER,2 BHK Apartment,Satpur,Nashik, 45 L,"5,625 ",800 ,Ready to move
+356,seller,VERIFIED OWNER,2 BHK Independent House,Sagar Village,Nashik, 52 L,"3,586 ",1450 ,Ready to move
+357,seller,VERIFIED OWNER,2 BHK Apartment,Panchavati,Nashik, 32 L,"3,478 ",920 ,Ready to move
+358,seller,VERIFIED OWNER,Residential Plot,Mangalmurti Nagar,Nashik, 3.5 L,486 ,720 ,Resale
+359,seller,VERIFIED OWNER,3 BHK Independent House,Pathardi Phata,Nashik, 70.51 L,"3,132 ",2251 ,Ready to move
+360,seller,VERIFIED OWNER,4 BHK Villa,Swaminarayan Nagar,Nashik, 52.5 L,"4,375 ",1200 ,Ready to move
+361,seller,VERIFIED OWNER,4 BHK Independent House,Modkeshwar Nagar,Nashik, 2.85 Cr,"7,125 ",4000 ,Ready to move
+362,seller,VERIFIED OWNER,1 BHK Apartment,Anandwalli Gaon,Nashik, 29.95 L,"4,437 ",675 ,Ready to move
+363,seller,VERIFIED OWNER,2 BHK Apartment,Vrindavan Nagar,Nashik, 39 L,"3,391 ",1150 ,Ready to move
+364,seller,VERIFIED OWNER,2 BHK Apartment,Nehru Nager,Nashik, 42.1 L,"4,033 ",1044 ,Ready to move
+365,seller,VERIFIED OWNER,3 BHK Apartment,Nashik Road,Nashik, 1.1 Cr,"6,084 ",1808 ,Ready to move
+366,seller,VERIFIED OWNER,4 BHK Apartment,Gangapur,Nashik, 2.4 Cr,"5,280 ",4545 ,Under Construction
+367,seller,VERIFIED OWNER,Residential Plot,Adgaon,Nashik, 9 L,"1,724 ",522 ,Resale
+368,seller,VERIFIED OWNER,Residential Plot,Trimbak,Nashik, 3.51 L,483 ,726 ,Resale
+369,seller,VERIFIED OWNER,Residential Plot,Chandshi,Nashik, 13.8 L,"1,780 ",775 ,Resale
+370,seller,VERIFIED OWNER,Residential Plot,Adgaon,Nashik, 15.96 L,943 ,1692 ,Resale
+371,Ashoka Realty,AGENT,3 BHK Apartment,Dasak,Nashik, 40.53 L,"3,450 ",1175 ,Under Construction
+372,Tvisha real estates,AGENT,3 BHK Apartment,Indira Nagar,Nashik, 47.5 L,"3,800 ",1250 ,Ready to move
+373,Rupesh Shirole Land Developers and Marketers,AGENT,1 BHK Independent House,Trimbak,Nashik, 30 L,"4,000 ",750 ,Under Construction
+374,Om sai estate,AGENT,3 BHK Apartment,Adgaon,Nashik, 95 L,"7,916 ",1200 ,Ready to move
+375,NexXen Solution pvt Ltd,AGENT,4 BHK Apartment,Tarwala Nagar,Nashik, 72.9 L,"3,471 ",2100 ,Ready to move
+376,EXP Global India Pvt Ltd,AGENT,3 BHK Apartment,Anandwalli Gaon,Nashik, 66 L,"4,300 ",1535 ,Under Construction
+377,Mr Sumit Acharya,AGENT,3 BHK Apartment,Shreerang Nagar,Nashik, 42 L,"3,668 ",1145 ,Ready to move
+378,AtoZ Real Estate Agency,AGENT,2 BHK Apartment,Ganesh Baba Nagar,Nashik, 55 L,"4,583 ",1200 ,Ready to move
+379,NexXen Solution pvt ltd,AGENT,2 BHK Apartment,Deolali Camp,Nashik, 26 L,"4,498 ",578 ,Ready to move
+380,Chandni,AGENT,2 BHK Apartment,Pathardi Phata,Nashik, 20.5 L,"2,157 ",950 ,Ready to move
+381,S R P REALTORS,AGENT,1 BHK Apartment,Shreerang Nagar,Nashik, 30 L,"4,958 ",605 ,Ready to move
+382,Property IQ,AGENT,3 BHK Apartment,Kalpataru Nagar,Nashik, 99 L,"5,469 ",1810 ,Ready to move
+383,Shreeji Group,BUILDER,3 BHK Apartment,Govind Nagar,Nashik, 1.08 Cr,"6,275 ",1721 ,Under Construction
+384,Rohan Enterprises,BUILDER,2 BHK Apartment,Indira Nagar,Nashik, 42.25 L,"4,031 ",1048 ,Under Construction
+385,Ashoka Realty,AGENT,2 BHK Apartment,Dasak,Nashik, 29.49 L,"3,450 ",855 ,Under Construction
+386,Rupesh Shirole Land Developers and Marketers,AGENT,1 BHK Villa,Trimbak,Nashik, 30 L,"4,615 ",650 ,Ready to move
+387,EXP Global India Pvt Ltd,AGENT,3 BHK Apartment,Jalapur,Nashik, 82.2 L,"5,313 ",1547 ,Under Construction
+388,Mr Sumit Acharya,AGENT,2 BHK Apartment,Kalpataru Nagar,Nashik, 50 L,"5,000 ",1000 ,Ready to move
+389,NexXen Solution pvt ltd,AGENT,2 BHK Apartment,Makhmalabad,Nashik, 18 L,"2,195 ",820 ,Ready to move
+390,AtoZ Real Estate Agency,AGENT,2 BHK Apartment,Ganesh Baba Nagar,Nashik, 55 L,"5,000 ",1100 ,Ready to move
+391,Tvisha real estates,AGENT,3 BHK Apartment,Rane Nagar,Nashik, 65 L,"4,814 ",1350 ,Ready to move
+392,S R P REALTORS,AGENT,1 BHK Apartment,Shreerang Nagar,Nashik, 32 L,"5,120 ",625 ,Ready to move
+393,Santosh,AGENT,3 BHK Apartment,Deolali Camp,Nashik, 75 L,"4,649 ",1613 ,Ready to move
+394,Moneywave Realty,AGENT,Residential Plot,Pahine,Nashik, 7.04 L,977 ,720 ,New
+395,C Global Properties,AGENT,3 BHK Independent House,Pathardi Phata,Nashik, 55 L,"3,055 ",1800 ,Ready to move
+396,seller,VERIFIED OWNER,2 BHK Independent House,Makhmalabad,Nashik, 45 L,"3,333 ",1350 ,Ready to move
+397,seller,VERIFIED OWNER,2 BHK Apartment,Deolali Gaon,Nashik, 21.5 L,"3,333 ",645 ,Under Construction
+398,Aaradhya Properties,BUILDER,2 BHK Apartment,Gangapur,Nashik, 44 L,"3,520 ",1250 ,Under Construction
+399,seller,VERIFIED OWNER,Residential Plot,Satpur,Nashik, 3.51 L,487 ,720 ,Resale
+400,EXP Global India Pvt Ltd,AGENT,3 BHK Apartment,Anandwalli Gaon,Nashik, 75.96 L,"7,403 ",1026 ,Under Construction
+401,Mr Sumit Acharya,AGENT,3 BHK Apartment,Hanuman Nagar,Nashik, 66 L,"5,477 ",1205 ,Ready to move
+402,AtoZ Real Estate Agency,AGENT,3 BHK Apartment,Indira Nagar,Nashik, 60 L,"4,000 ",1500 ,Ready to move
+403,Tvisha real estates,AGENT,2 BHK Apartment,Indira Nagar,Nashik, 40 L,"4,613 ",867 ,Ready to move
+404,Santosh,AGENT,3 BHK Apartment,Devlali,Nashik, 75 L,"4,649 ",1613 ,Ready to move
+405,Rupesh Shirole Land Developers and Marketers,AGENT,Residential Plot,Trimbak,Nashik, 15 L,139 ,10764 ,New
+406,NexXen Solution pvt ltd,AGENT,1 BHK Apartment,Niphad,Nashik, 12.16 L,"2,340 ",520 ,Ready to move
+407,C Global Properties,AGENT,2 BHK Apartment,Pathardi Phata,Nashik, 49.51 L,"3,300 ",1500 ,Ready to move
+408,seller,VERIFIED OWNER,2 BHK Apartment,Panchavati,Nashik, 44.25 L,"3,884 ",1139 ,Under Construction
+409,seller,VERIFIED OWNER,2 BHK Apartment,Mhasrul Gaon,Nashik, 27 L,"3,253 ",830 ,Under Construction
+410,seller,VERIFIED OWNER,Residential Plot,Adgaon,Nashik, 11 L,"1,824 ",603 ,Resale
+411,Shreeji Group,BUILDER,2 BHK Apartment,Govind Nagar,Nashik, 67 L,"5,731 ",1169 ,Under Construction
+412,Rohan Enterprises,BUILDER,3 BHK Apartment,Indira Nagar,Nashik, 49.45 L,"4,030 ",1227 ,Under Construction
+413,Ashoka Realty,AGENT,2 BHK Apartment,Dasak,Nashik, 24.18 L,"3,450 ",701 ,Under Construction
+414,S R P REALTORS,AGENT,1 RK Studio Apartment,Shreerang Nagar,Nashik, 25 L,"4,545 ",550 ,Ready to move
+415,seller,VERIFIED OWNER,1 BHK Apartment,Deolali Gaon,Nashik, 16.5 L,"3,300 ",500 ,Under Construction
+416,Aaradhya Properties,BUILDER,1 BHK Apartment,Gangapur,Nashik, 23.52 L,"3,536 ",665 ,Under Construction
+417,EXP Global India Pvt Ltd,AGENT,4 BHK Apartment,Parijat Nagar,Nashik, 2.24 Cr,"8,099 ",2768 ,Under Construction
+418,Mr Sumit Acharya,AGENT,3 BHK Apartment,Uttara Nagar,Nashik, 70 L,"4,375 ",1600 ,Ready to move
+419,Tvisha real estates,AGENT,2 BHK Apartment,Makhmalabad,Nashik, 46 L,"4,423 ",1040 ,Ready to move
+420,seller,VERIFIED OWNER,5 BHK Independent House,Sangram Nagar,Aurangabad, 80 L,"2,666 ",3000 ,Ready to move
+421,seller,VERIFIED OWNER,2 BHK Apartment,Ulkanagari,Aurangabad, 52.5 L,"6,505 ",807 ,Ready to move
+422,seller,VERIFIED OWNER,3 BHK Apartment,Usmanpura,Aurangabad, 92 L,"6,666 ",1380 ,Ready to move
+423,seller,VERIFIED OWNER,2 BHK Apartment,Satara Parisar,Aurangabad, 33.5 L,"3,045 ",1100 ,Under Construction
+424,seller,VERIFIED OWNER,3 BHK Independent House,Beed Bypass Padegaon,Aurangabad, 48.99 L,"3,629 ",1350 ,Ready to move
+425,seller,VERIFIED OWNER,Residential Plot,Shendraban,Aurangabad, 1.5 L,136 ,1100 ,Resale
+426,NexXen Solution pvt ltd,AGENT,Residential Plot,Gangapur Jahagir,Aurangabad, 13.45 L,"1,415 ",950 ,Resale
+427,NexXen Solution pvt ltd,AGENT,Residential Plot,Gangapur Jahagir,Aurangabad, 13.45 L,"1,389 ",968 ,Resale
+428,Innovative properties,AGENT,2 BHK Apartment,Nirala Bazar,Aurangabad, 70 L,"6,666 ",1050 ,Under Construction
+429,seller,VERIFIED OWNER,5 BHK Independent House,Satara,Aurangabad, 80 L,"2,666 ",3000 ,Ready to move
+430,4closure,AGENT,Residential Plot,Kanchanwadi,Aurangabad, 48.65 L,"5,585 ",871 ,Resale
+431,NexXen Solution pvt ltd,AGENT,Residential Plot,Gangapur Jahagir,Aurangabad, 13.45 L,"1,372 ",980 ,Resale
+432,Innovative properties,AGENT,2 BHK Apartment,Nirala Bazar,Aurangabad, 70 L,"7,000 ",1000 ,Under Construction
+433,Muley Property,AGENT,2 BHK Apartment,Nakshtrawadi,Aurangabad, 26.5 L,"2,896 ",915 ,Ready to move
+434,Bhaishree Ventures,BUILDER,2 BHK Apartment,Beed Bypass Padegaon,Aurangabad, 25 L,"2,631 ",950 ,Under Construction
+435,MG Build,BUILDER,3 BHK Apartment,Garkheda,Aurangabad, 69 L,"4,600 ",1500 ,Under Construction
+436,NexXen Solution pvt ltd,AGENT,Residential Plot,Gangapur Jahagir,Aurangabad, 13.45 L,"1,358 ",990 ,Resale
+437,seller,OWNER,2 BHK Apartment,Waluj,Aurangabad, 26.5 L,"2,789 ",950 ,Ready to move
+438,Siddiqui Najeeb,OWNER,2 BHK Apartment,Juna Bazaar,Aurangabad, 30 L,"6,521 ",460 ,Ready to move
+439,KALASH LANDMARK,OWNER,2 BHK Apartment,Tisgaon,Aurangabad, 30 L,"3,529 ",850 ,Under Construction
+440,Ranjeet,OWNER,2 BHK Apartment,Beed Bypass Padegaon,Aurangabad, 41 L,"5,734 ",715 ,Ready to move
+441,ShivShankar Muley,OWNER,1 BHK Apartment,PWD Colony,Aurangabad, 25 L,"2,759 ",906 ,Ready to move
+442,Swapnil,BUILDER,2 BHK Apartment,Beed Bypass Padegaon,Aurangabad, 25 L,"2,777 ",900 ,Under Construction
+443,seller,OWNER,2 BHK Apartment,Padegaon,Aurangabad, 22 L,"2,315 ",950 ,Ready to move
+444,shailendra,OWNER,3 BHK Apartment,Bassaiye Nagar,Aurangabad, 65 L,"4,482 ",1450 ,Ready to move
+445,seller,OWNER,2 BHK Apartment,Waluj,Aurangabad, 35 L,"3,500 ",1000 ,Ready to move
+446,Ajay Badhe,OWNER,2 BHK Apartment,Ulkanagari,Aurangabad, 55 L,"5,670 ",970 ,Ready to move
+447,Bhaishree Group,BUILDER,2 BHK Villa,Balapur,Aurangabad, 32 L,"3,555 ",900 ,Under Construction
+448,MAYUR KYADARKUNTHE,OWNER,Residential Plot,Sundarwadi,Aurangabad, 19 L,"1,583 ",1200 ,Resale
+449,PANKAJ,OWNER,1 BHK Independent Floor,Chikalthana,Aurangabad, 15.5 L,"7,750 ",200 ,Ready to move
+450,Renuka properties,AGENT,Residential Plot,Satara,Aurangabad, 44 L,"1,955 ",2250 ,Resale
+451,Sagar Gaikwad,OWNER,2 BHK Apartment,Beed Bypass Padegaon,Aurangabad, 25.54 L,"3,005 ",850 ,Under Construction
+452,Kailash kshrisagar,OWNER,2 BHK Independent House,Balapur,Aurangabad, 32 L,"3,555 ",900 ,Under Construction
+453,Vaibhav Taware,OWNER,3 BHK Independent House,Mitmita,Aurangabad, 36 L,"4,000 ",900 ,Ready to move
+454,Swapnil,BUILDER,2 BHK Independent House,Beed Bypass Road,Aurangabad, 32 L,"3,466 ",923 ,Under Construction
+455,Sangita B,OWNER,3 BHK Independent House,Eknathnagar,Aurangabad, 60 L,"5,000 ",1200 ,Ready to move
+456,HARIDAS BODKHE,OWNER,Residential Plot,Balapur,Aurangabad, 21.42 L,"2,200 ",974 ,New
+457,Sachin Jadhav,OWNER,2 BHK Apartment,Begumpura,Aurangabad, 45 L,"4,500 ",1000 ,Ready to move
+458,Rajiv k,OWNER,1 BHK Apartment,Zalta,Aurangabad, 13 L,"3,250 ",400 ,Under Construction
+459,Anil Sarda,OWNER,1 BHK Apartment,Zalta,Aurangabad, 13 L,"2,888 ",450 ,Under Construction
+460,Sandip wayal,OWNER,7 BHK Villa,N5N6 Main Road,Aurangabad, 7.4 Cr,"6,727 ",11000 ,Ready to move
+461,Sagar Gaikwad,OWNER,2 BHK Villa,Balapur,Aurangabad, 32 L,"3,555 ",900 ,Under Construction
+462,Amol Ukarde,OWNER,Residential Plot,Zalta,Aurangabad, 17.55 L,"1,450 ",1211 ,New
+463,Bhaishree Group,BUILDER,Residential Plot,Kubhephal,Aurangabad, 8 L,850 ,941 ,Resale
+464,Umesh Sharma,OWNER,1 BHK Apartment,Mirajgave Nagari,Aurangabad, 22.99 L,"4,181 ",550 ,Ready to move
+465,Nandkishor Jadhav,OWNER,2 BHK Apartment,Waluj,Aurangabad, 26 L,"3,209 ",810 ,Ready to move
+466,Jogendra Sakhare,OWNER,1 BHK Independent House,Shendra MIDC,Aurangabad, 25 L,"4,708 ",531 ,Ready to move
+467,user6805,OWNER,2 BHK Independent House,Hirapur,Aurangabad, 27.7 L,"3,077 ",900 ,Under Construction
+468,Nikhil Gadekar,OWNER,3 BHK Apartment,Shahnoorwadi,Aurangabad, 40 L,"3,076 ",1300 ,Ready to move
+469,VAIBHAV Garad,OWNER,2 BHK Apartment,Kanchanwadi,Aurangabad, 47 L,"5,529 ",850 ,Ready to move
+470,Rajkumar Pangaonkar,OWNER,3 BHK Apartment,Nakshtrawadi,Aurangabad, 50 L,"3,424 ",1460 ,Ready to move
+471,Ajay,OWNER,4 BHK Independent House,Satara Parisar,Aurangabad, 45 L,"3,947 ",1140 ,Ready to move
+472,Neeraj Shukla,OWNER,2 BHK Apartment,Satara Parisar,Aurangabad, 26 L,"2,407 ",1080 ,Ready to move
+473,NITIN KISANRAO PAWAR,OWNER,2 BHK Apartment,Ulkanagari,Aurangabad, 18 L,"2,368 ",760 ,Ready to move
+474,Prasad vedi,OWNER,1 BHK Apartment,Begumpura,Aurangabad, 16 L,"2,461 ",650 ,Ready to move
+475,A to Z Consultancy,AGENT,3 BHK Apartment,Beed Bypass Road,Aurangabad, 1.2 Cr,"6,568 ",1827 ,Ready to move
+476,R A P,OWNER,Residential Plot,Itkheda,Aurangabad, 45 L,"1,500 ",3000 ,Resale
+477,Vinod Pungle,OWNER,Residential Plot,Kanchanwadi,Aurangabad, 45 L,"1,500 ",3000 ,Resale
+478,A to Z Consultancy,AGENT,Residential Plot,Padegaon,Aurangabad, 14.9 L,"2,483 ",600 ,Resale
+479,Sanket Jagdale,OWNER,1 BHK Independent House,Farola,Aurangabad, 12 L,"2,000 ",600 ,Ready to move
+480,user4689,OWNER,1 BHK Independent House,Waluj,Aurangabad, 7.5 L,"2,500 ",300 ,Ready to move
+481,Vishal Zinzurde,OWNER,3 BHK Independent House,Shivaji Nagar,Aurangabad, 90 L,"4,285 ",2100 ,Ready to move
+482,shivraj susar,OWNER,Residential Plot,Nakshtrawadi,Aurangabad, 12 L,"1,200 ",1000 ,Resale
+483,user6805,OWNER,1 BHK Villa,Shendra MIDC,Aurangabad, 18.9 L,"3,150 ",600 ,Under Construction
+484,Gandhi Rajput,OWNER,Residential Plot,Harsul,Aurangabad, 5.55 L,462 ,1200 ,Resale
+485,shivaji patil,OWNER,Residential Plot,Shendra MIDC,Aurangabad, 5 L,"1,562 ",320 ,Resale
+486,Sanket Jagdale,OWNER,1 BHK Independent House,Farola,Aurangabad, 12 L,"2,000 ",600 ,Ready to move
+487,A to Z Consultancy,AGENT,3 BHK Villa,Beed Bypass Road,Aurangabad, 1.8 Cr,"6,617 ",2720 ,Ready to move
